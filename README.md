@@ -1,6 +1,6 @@
 # 📈 비트코인 알고리즘 트레이딩 과제 보고서 (Final Report)
 
-**작성자**: juho@hufs.ac.kr (한국외국어대학교 GBT + Business & AI)
+[인공지능] GBT 202304280 이성민
 
 ---
 
